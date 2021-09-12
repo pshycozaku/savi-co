@@ -149,6 +149,22 @@ aside{
   padding: 5%;
 }
 
-.whus{
+.inf{
+  font-size: 30px;
+}
 
+.whus{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.il-nostro-progetto{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+#logo-azienda{
+  height: 100px;
+  width: 150px;
+  border-radius: 10%;
 }
